@@ -1,0 +1,12 @@
+.heading {
+  color: red;
+  text-align: center;
+  height: 500px;
+  width: 500px;
+  background-color: aquamarine;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+  margin-left: 500px;
+  padding-top: 20px;
+}
